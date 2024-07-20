@@ -1,7 +1,7 @@
 .main{
 	width:200px;
-	background-color:purple;
-	Left-side-border-color:green;
+	background-color:rgb(128, 0, 128);
+	Left-side-border-color:solid green;
 	Left-side-border-thickness:5px;
 	padding:10px;
 }
