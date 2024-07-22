@@ -1,11 +1,10 @@
-.heading{
+#heading{
 	width:200px;
 	background-color:purple;
-	Left-side-border-color:solid green;
-	Left-side-border-thickness:5px;
+	border-left-color:5px solid green;
 	padding:10px;
 }
-.heading{
+#heading{
 	text:"This is a Heading";
 	font-size:20px;
 	text-color:white;
