@@ -1,12 +1,11 @@
 #heading{
-	width:200px;
-	background-color:purple;
-	border-left-color:5px solid green;
+	width: 200px;
+	background-color: purple;
+	border-left: 5px solid green;
 	padding:10px;
 }
 #heading{
-	text:"This is a Heading";
-	font-size:20px;
-	text-color:white;
-	text-decoration:underline;
+	font-size: 20px;
+	color: white;
+	text-decoration: underline;
 }
